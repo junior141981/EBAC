@@ -5,8 +5,7 @@ import time
 
 
 st.set_page_config(
-    page_title="EBAC | Módulo 15 | Streamlit I | Exercício",
-    # page_icon="https://ebaconline.com.br/favicon.ico",
+  
     page_icon="https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/ebac-course-utils/media/icon/favicon.ico",
     layout="wide",
     initial_sidebar_state="expanded",
