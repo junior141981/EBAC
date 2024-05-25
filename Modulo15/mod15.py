@@ -12,14 +12,6 @@ st.set_page_config(
 )
 
 
-st.markdown('''
-<img src="https://raw.githubusercontent.com/mod15/Curso_EBAC-Profissao_Cientista_de_Dados/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo">
-
----
-
-st.markdown("# Main page 🎈")
-st.sidebar.markdown("# Main page 🎈")
-
 # 01
 st.title('Uber pickups in NYC')
 
