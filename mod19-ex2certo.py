@@ -60,7 +60,7 @@ def main():
         """
     <div style="text-align:center">
         <a href="https://github.com/junior141981/Curso_EBAC-Profissao_Cientista_de_Dados">
-            <img src="https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/ebac-course-utils/media/logo/ebac_logo-data_science.png" alt="ebac_logo-data_science" width=100%>
+            <img src="https://raw.githubusercontent.com/junior141981/Curso_EBAC-Profissao_Cientista_de_Dados/main/ebac-course-utils/media/logo/ebac_logo-data_science.png" alt="ebac_logo-data_science" width=100%>
         </a>
     </div> 
 
